@@ -183,7 +183,14 @@
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/RotnoDas/RotnoDas/output/github-contribution-grid-snake-neon.svg" alt="GitHub Contribution Snake"/>
+<h2>🕹️ Pac-Man Contribution Graph</h2>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RotnoDas/RotnoDas/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RotnoDas/RotnoDas/output/pacman-contribution-graph.svg">
+  <img width="100%" alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/RotnoDas/RotnoDas/output/pacman-contribution-graph-dark.svg">
+</picture>
 
 </div>
 
