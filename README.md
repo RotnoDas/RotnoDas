@@ -144,49 +144,33 @@
 
 
 
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<p align="center">
+  <sub>Live statistics from my GitHub activity</sub>
+</p>
+
+
+
+
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2200&pause=700&color=00E5FF&center=true&vCenter=true&repeat=true&width=760&height=52&lines=%F0%9F%93%8A+GitHub+Analytics;%E2%9A%A1+Live+Coding+Activity;%F0%9F%93%88+Contribution+Pulse" alt="Animated GitHub Analytics Heading"/>
-</a>
-
-
-
-
-<img src="https://img.shields.io/badge/LIVE-ACTIVITY%20FEED-39D353?style=for-the-badge&labelColor=161B22" alt="Live Activity"/>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/THEME-GITHUB%20DARK-58A6FF?style=for-the-badge&labelColor=161B22" alt="GitHub Dark"/>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/STATUS-BUILDING-00E5FF?style=for-the-badge&labelColor=161B22" alt="Building"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=RotnoDas&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=39D353&include_all_commits=true&count_private=true&rank_icon=github" alt="Rotno's GitHub Stats"/>
+&nbsp;
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RotnoDas&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
 
 
 
 
 
-<a href="https://github.com/RotnoDas">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=RotnoDas&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&icon_color=39D353&include_all_commits=true&count_private=true&rank_icon=github&custom_title=GitHub%20Performance" alt="GitHub Performance"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/RotnoDas?tab=repositories">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RotnoDas&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&langs_count=8&custom_title=Most%20Used%20Languages" alt="Most Used Languages"/>
-</a>
+<img width="72%" src="https://streak-stats.demolab.com?user=RotnoDas&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=39D353&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak"/>
 
 
 
 
 
-<img width="95%" src="https://streak-stats.demolab.com?user=RotnoDas&hide_border=true&background=0D1117&stroke=30363D&ring=00E5FF&fire=39D353&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=00E5FF&sideLabels=58A6FF&dates=8B949E" alt="GitHub Streak"/>
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=RotnoDas&bg_color=0D1117&color=8B949E&line=58A6FF&point=39D353&area=true&area_color=161B22&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Activity"/>
 
-
-
-
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=RotnoDas&bg_color=0D1117&color=C9D1D9&line=00E5FF&point=39D353&area=true&area_color=161B22&hide_border=true&custom_title=Live%20Contribution%20Pulse" alt="Live Contribution Pulse"/>
-
-
-
-
-<sub>⚡ Stats update automatically from GitHub activity.</sub>
 </div>
 
 
