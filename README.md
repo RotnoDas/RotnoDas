@@ -146,8 +146,14 @@
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
-
 <div align="center">
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2200&pause=1000&color=39D353&center=true&vCenter=true&repeat=true&width=520&height=32&lines=%E2%97%8F+LIVE+%E2%80%A2+GitHub+activity+updates+automatically;%E2%9A%A1+Tracking+commits%2C+languages+%26+contributions" alt="Live GitHub activity"/>
+</a>
+
+
+
 
 <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RotnoDas&theme=github_dark" alt="GitHub Profile Details"/>
 
@@ -163,7 +169,7 @@
 
 
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=RotnoDas&bg_color=0D1117&color=C9D1D9&line=00E5FF&point=39D353&area=true&area_color=58A6FF&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Activity"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=RotnoDas&bg_color=0D1117&color=C9D1D9&line=00E5FF&point=39D353&area=true&area_color=58A6FF&hide_border=true&custom_title=Live%20Contribution%20Activity" alt="Live Contribution Activity"/>
 
 </div>
 
@@ -213,6 +219,6 @@
 </a>
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0D1117,50:111827,100:0D1117&section=footer" alt="Footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=58A6FF&animation=fadeIn" alt="Footer Wave"/>
 
 </div>
