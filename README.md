@@ -183,13 +183,13 @@
 
 <div align="center">
 
-<h2>🕹️ Pac-Man Contribution Graph</h2>
+<h2>🚀 Galaga Contribution Graph</h2>
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RotnoDas/RotnoDas/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RotnoDas/RotnoDas/output/pacman-contribution-graph.svg">
-  <img width="100%" alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/RotnoDas/RotnoDas/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RotnoDas/RotnoDas/output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RotnoDas/RotnoDas/output/galaga-contribution-graph.svg">
+  <img width="100%" alt="Galaga contribution graph" src="https://raw.githubusercontent.com/RotnoDas/RotnoDas/output/galaga-contribution-graph-dark.svg">
 </picture>
 
 </div>
