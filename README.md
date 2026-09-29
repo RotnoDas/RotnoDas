@@ -146,32 +146,27 @@
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
-<p align="center">
-  <sub>Live statistics from my GitHub activity</sub>
-</p>
-
-
-
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=RotnoDas&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=39D353&include_all_commits=true&count_private=true&rank_icon=github" alt="Rotno's GitHub Stats"/>
-&nbsp;
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RotnoDas&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RotnoDas&theme=github_dark" alt="GitHub Profile Details"/>
 
 
 
 
 
-<img width="72%" src="https://streak-stats.demolab.com?user=RotnoDas&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=39D353&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak"/>
+<img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RotnoDas&theme=github_dark" alt="GitHub Stats"/>
+&nbsp;&nbsp;
+<img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RotnoDas&theme=github_dark" alt="Most Commit Language"/>
 
 
 
 
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=RotnoDas&bg_color=0D1117&color=8B949E&line=58A6FF&point=39D353&area=true&area_color=161B22&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Activity"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=RotnoDas&bg_color=0D1117&color=C9D1D9&line=00E5FF&point=39D353&area=true&area_color=58A6FF&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Activity"/>
 
 </div>
+
 
 
 
