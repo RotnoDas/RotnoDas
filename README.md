@@ -104,22 +104,25 @@ Tools
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=0D1117&text=%F0%9F%90%8D%20CONTRIBUTION%20ARENA&fontColor=39D353&fontSize=28&fontAlignY=52" alt="Contribution Arena"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2200&pause=700&color=39D353&center=true&vCenter=true&repeat=true&width=760&height=45&lines=SNAKE+MODE%3A+ACTIVE+%F0%9F%90%8D;Hunting+contributions+across+the+grid...;Green+squares+detected.+Game+on." alt="Snake status"/>
-</a>
+🐍 CONTRIBUTION ARENA
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2200&pause=600&color=39D353&center=true&vCenter=true&repeat=true&width=760&height=45&lines=SNAKE+MODE%3A+ACTIVE+%F0%9F%90%8D;Eating+my+GitHub+contributions...;Keep+the+green+grid+alive." alt="Snake status"/>
 
 
-<img width="100%" src="https://raw.githubusercontent.com/RotnoDas/RotnoDas/output/github-contribution-grid-snake-neon.svg" alt="Neon GitHub contribution snake animation"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RotnoDas/RotnoDas/output/github-contribution-grid-snake-neon.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RotnoDas/RotnoDas/output/github-contribution-grid-snake.svg">
+  <img width="100%" alt="GitHub contribution snake" src="https://raw.githubusercontent.com/RotnoDas/RotnoDas/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+
 
 
 <img src="https://img.shields.io/badge/SNAKE-ONLINE-39D353?style=for-the-badge&labelColor=0D1117" alt="Snake Online"/>
-<img src="https://img.shields.io/badge/GRID-GITHUB%20DARK-58A6FF?style=for-the-badge&labelColor=0D1117" alt="GitHub Dark Grid"/>
+<img src="https://img.shields.io/badge/GRID-GITHUB%20DARK-58A6FF?style=for-the-badge&labelColor=0D1117" alt="Dark Grid"/>
 <img src="https://img.shields.io/badge/MODE-CONTRIBUTION%20HUNT-00E5FF?style=for-the-badge&labelColor=0D1117" alt="Contribution Hunt"/>
 
 </div>
-
+<br/>
 
 <div align="center">
 
